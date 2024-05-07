@@ -65,7 +65,9 @@ Logistic Regression is implemented using functions for sigmoid activation, cost 
 
 ## Running the Code
 
-To run the code, ensure you have Python installed along with the necessary libraries such as pandas, numpy, matplotlib, and Scikit-Learn. Then, simply execute the provided scripts `decision_tree.py` and `logistic_regression.py`.
+To run the code, ensure you have Python installed along with the necessary libraries such as pandas, numpy, matplotlib, and Scikit-Learn. Then, simply execute the provided scripts `decision_tree.py` and `logistic_regression.py`. These can be installed as follows: 
+
+`pip install pandas, numpy, matplotlib, and scikit-learn`
 
 ## Results
 
